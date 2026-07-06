@@ -4,12 +4,11 @@
 Kenalin, aku **Rizwan**. Saat ini aku masih berstatus sebagai pelajar di **SMKN 1 Cianjur**, . 
 
 
-
 - 🔭 **Lagi sibuk:** Ngerjain tugas sekolah, praktek, dan bikin-bikin project sampingan buat portofolio.
 - 🌱 **Lagi asik belajar:** AI,Data Scientist.
 - 👯 **Open for collab:** Bikin project bareng, ikut lomba/hackathon, atau sekadar mabar *coding*.
 - 💬 **Bisa diajak ngobrol soal:** Web development, bikin aplikasi Android/iOS, atau seputar *cloud services*.
-- 📫 **Drop a message:** Lewat [Email Kamu, misal: rizwanfahri123@gmail.com] atau DM aja ke sosmedku di bawah.
+- 📫 **Drop a message:** Lewat  rizwanfahri123@gmail.com atau DM aja ke sosmedku di bawah.
 
 ---
 
@@ -49,3 +48,9 @@ Biar kelihatan seberapa sering aku ngoding (atau seberapa sering aku lupa nge-pu
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Calvi151&theme=tokyonight&hide_border=true" alt="GitHub Streak Calvi151" />
 </p>
+
+### 🤝 Mari Berteman!
+
+Jangan sungkan buat sapa atau *connect* with me
+
+https://instagram.com/the_rizzn
